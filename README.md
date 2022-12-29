@@ -12,4 +12,4 @@ QT creator using C++
 
 
 ## How to use?
-To use my application ,please download the zipped file, then open only the excutable file
+To use my application ,please clone the repo, then open only the excutable file which located in the zipped folder
